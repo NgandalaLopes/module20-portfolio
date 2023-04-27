@@ -17,8 +17,8 @@ In the project directory, you can run:
 ### `npm start`
 To run local
 
-### See my deployed Portfolio here.
-Open [https://reliable-blini-ff45f8.netlify.app/](https://reliable-blini-ff45f8.netlify.app/) to view it in your browser.
+### `See my deployed Portfolio here.`
+Open [VIEW LIVE](https://reliable-blini-ff45f8.netlify.app/) to view it in your browser.
 
 
 
