@@ -7,7 +7,7 @@
  
 
 
-https://reliable-blini-ff45f8.netlify.app/
+
 
 ![Alt text](https://github.com/NgandalaLopes/module20-portfolio/blob/main/img/portfolio.gif?raw=true "Title")
 ## Available Scripts
@@ -15,12 +15,13 @@ https://reliable-blini-ff45f8.netlify.app/
 In the project directory, you can run:
 
 ### `npm start`
+To run local
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### See my deployed Portfolio here.
+Open [https://reliable-blini-ff45f8.netlify.app/](https://reliable-blini-ff45f8.netlify.app/) to view it in your browser.
 
 
 
-See my deployed [Portfolio](Portfolio Project w/ React) here.
+
 
 
