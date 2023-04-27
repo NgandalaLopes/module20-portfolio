@@ -18,7 +18,7 @@ In the project directory, you can run:
 To run local
 
 ### `See my deployed Portfolio here.`
-Open [VIEW LIVE](https://reliable-blini-ff45f8.netlify.app/) to view it in your browser.
+[VIEW LIVE](https://reliable-blini-ff45f8.netlify.app/)
 
 
 
